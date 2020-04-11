@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://github.com" name="cybercook" />
+    <default remote="cybercook" revision="refs/heads/master" sync-j="4" />
+    <project name="cybercook/tools" path="setup/tools" />
+    <project name="cybercook/settings" path="setup/env_settings" />
+</manifest>
