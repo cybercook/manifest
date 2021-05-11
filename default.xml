@@ -5,4 +5,5 @@
     <project name="cybercook/tools" path="setup/tools" />
     <project name="cybercook/settings" path="setup/env_settings" />
     <project name="cybercook/dotfiles" path="setup/dotfiles" />
+    <project name="cybercook/binfiles" path="setup/binfiles" />
 </manifest>
