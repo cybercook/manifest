@@ -6,4 +6,5 @@
     <project name="cybercook/settings" path="setup/env_settings" />
     <project name="cybercook/dotfiles" path="setup/dotfiles" />
     <project name="cybercook/binfiles" path="setup/binfiles" revision="main" />
+    <project name="cybercook/pkgcfg" path="pkgcfg" revision="main" />
 </manifest>
